@@ -14,6 +14,8 @@
 		2C469AC328CC5E0B001B214D /* PhoenixLiveViewNative in Frameworks */ = {isa = PBXBuildFile; productRef = 2C469AC228CC5E0B001B214D /* PhoenixLiveViewNative */; };
 		2C469AC528CD863F001B214D /* MyRegistry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C469AC428CD863F001B214D /* MyRegistry.swift */; };
 		2C469AC728CD887E001B214D /* CatRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C469AC628CD887E001B214D /* CatRatingView.swift */; };
+		2C469AC928CD9B0A001B214D /* NavFavoriteModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C469AC828CD9B0A001B214D /* NavFavoriteModifier.swift */; };
+		2C469ACB28CDAD3E001B214D /* MyLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C469ACA28CDAD3E001B214D /* MyLoadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2C469ABA28CC5CA6001B214D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2C469AC428CD863F001B214D /* MyRegistry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRegistry.swift; sourceTree = "<group>"; };
 		2C469AC628CD887E001B214D /* CatRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatRatingView.swift; sourceTree = "<group>"; };
+		2C469AC828CD9B0A001B214D /* NavFavoriteModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavFavoriteModifier.swift; sourceTree = "<group>"; };
+		2C469ACA28CDAD3E001B214D /* MyLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLoadingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				2C469AB928CC5CA6001B214D /* Preview Content */,
 				2C469AC428CD863F001B214D /* MyRegistry.swift */,
 				2C469AC628CD887E001B214D /* CatRatingView.swift */,
+				2C469AC828CD9B0A001B214D /* NavFavoriteModifier.swift */,
+				2C469ACA28CDAD3E001B214D /* MyLoadingView.swift */,
 			);
 			path = LVNTutorial;
 			sourceTree = "<group>";
@@ -153,6 +159,8 @@
 			files = (
 				2C469AB628CC5CA3001B214D /* ContentView.swift in Sources */,
 				2C469AB428CC5CA3001B214D /* LVNTutorialApp.swift in Sources */,
+				2C469AC928CD9B0A001B214D /* NavFavoriteModifier.swift in Sources */,
+				2C469ACB28CDAD3E001B214D /* MyLoadingView.swift in Sources */,
 				2C469AC728CD887E001B214D /* CatRatingView.swift in Sources */,
 				2C469AC528CD863F001B214D /* MyRegistry.swift in Sources */,
 			);
