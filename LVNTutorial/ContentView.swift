@@ -6,11 +6,12 @@
 //
 
 import SwiftUI
+import PhoenixLiveViewNative
 
 struct ContentView: View {
+  @State var coordinator = LiveViewCoordinator(URL(string: "http://localhost:4000/cats")!)
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+      LiveView(coordinator: coordinator)
     }
 }
 
