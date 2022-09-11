@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2C469AB028CC5CA3001B214D /* LVNTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LVNTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C469AB028CC5CA3001B214D /* CatsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C469AB328CC5CA3001B214D /* LVNTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LVNTutorialApp.swift; sourceTree = "<group>"; };
 		2C469AB528CC5CA3001B214D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2C469AB728CC5CA6001B214D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 		2C469AB128CC5CA3001B214D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2C469AB028CC5CA3001B214D /* LVNTutorial.app */,
+				2C469AB028CC5CA3001B214D /* CatsApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,7 +101,7 @@
 				2C469AC228CC5E0B001B214D /* PhoenixLiveViewNative */,
 			);
 			productName = LVNTutorial;
-			productReference = 2C469AB028CC5CA3001B214D /* LVNTutorial.app */;
+			productReference = 2C469AB028CC5CA3001B214D /* CatsApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -305,7 +305,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = defdo.ninja.LVNTutorial;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CatsApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -334,7 +334,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = defdo.ninja.LVNTutorial;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CatsApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
